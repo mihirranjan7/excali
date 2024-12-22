@@ -1,0 +1,14 @@
+{
+  "name": "Excalidraw Theme Component",
+  "license_url": "https://opensource.org/licenses/MIT",
+  "authors": "Mihir",
+  "version": "0.1",
+  "theme_version": "2.0",
+  "minimum_discourse_version": "2.7.0",
+  "assets": {
+    "js": [
+      "javascripts/excalidraw.js"
+    ]
+  }
+}
+
