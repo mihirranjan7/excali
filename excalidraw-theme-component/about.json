@@ -1,14 +1,15 @@
 {
   "name": "Excalidraw Theme Component",
+  "about_url": "https://yourforum.com",
   "license_url": "https://opensource.org/licenses/MIT",
-  "authors": "Mihir",
+  "authors": ["Your Name"],
   "version": "0.1",
   "theme_version": "2.0",
   "minimum_discourse_version": "2.7.0",
   "assets": {
     "js": [
-      "javascripts/excalidraw.js"
+      "javascripts/excalidraw.js",
+      "javascripts/discourse/connectors/composer-toolbar/excalidraw-button.js.es6"
     ]
   }
 }
-
