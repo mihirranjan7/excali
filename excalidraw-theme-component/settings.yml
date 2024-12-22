@@ -1,8 +1,0 @@
-excalidraw_url:
-  default: "https://excalidraw.com"
-  type: enum
-  description: "Select the URL for the Excalidraw app."
-  values:
-    - "https://excalidraw.com"
-    - "https://your-custom-excalidraw-instance.com"
-  required: false
